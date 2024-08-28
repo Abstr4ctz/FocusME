@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: FocusME
+## Notes: Time to get you some attention.
+## Author: Abstractz
+## Version: 0.9
+
+FocusME.lua
