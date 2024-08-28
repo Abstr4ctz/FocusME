@@ -1,4 +1,4 @@
--- Define the action bar slot for Intervene
+-- Define the action bar slot for Taunt
 local TAUNT_ACTION_SLOT = 25
 
 local function getSpellId(targetSpellName, targetSpellRank)
