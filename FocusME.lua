@@ -1,5 +1,5 @@
 -- Define the action bar slot for Intervene
-local TAUNT_ACTION_SLOT = 36
+local TAUNT_ACTION_SLOT = 25
 
 local function getSpellId(targetSpellName, targetSpellRank)
     for i = 1, 200 do
